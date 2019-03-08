@@ -6,3 +6,8 @@ Bước 4:Xác nhận file bằng lệnh:git commit -m""gõ chú ý vào đây"
 Bước 5:để đẩy file đó vào localhostthif gõ:git push
 
 ở bước 2:sửa reposive thành repository
+
+
+
+
+để cập nhật những file ở máy tính của mình khi sửa trên đây:ta dùng lệnh git pull
