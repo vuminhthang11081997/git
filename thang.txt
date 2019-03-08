@@ -4,3 +4,5 @@ Bước 2:để thêm những file chưa có trong rep thì chúng ta gõ:git ad
 Bước 3:gõ lại lệnh git status
 Bước 4:Xác nhận file bằng lệnh:git commit -m""gõ chú ý vào đây"
 Bước 5:để đẩy file đó vào localhostthif gõ:git push
+
+ở bước 2:sửa reposive thành repository
