@@ -1,0 +1,6 @@
+﻿Đầu tiên để thêm file vào GitHup thì chúng ta thực hiện những bước sau:
+Bước 1:vào Git bash here gõ:git status(nó sẽ hiện lên những file chưa được update vào reponsive)
+Bước 2:để thêm những file chưa có trong rep thì chúng ta gõ:git add *(nếu bạn muốn thêm 1 file bất kì thì gõ git add tên file)
+Bước 3:gõ lại lệnh git status
+Bước 4:Xác nhận file bằng lệnh:git commit -m""gõ chú ý vào đây"
+Bước 5:để đẩy file đó vào localhostthif gõ:git push
