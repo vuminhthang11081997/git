@@ -1,0 +1,6 @@
+﻿Để khôi phục lại những gì đã mất(ví dụ như code,tài liệu trước khi thay đổi) chúng ta làm như sau:
+Bước 1:vào git bash here gõ:git log
+Bước 2:copy id commit
+Bước 3:ấn crtl C để dừng việc log lại
+Bước 4:để chuyển về dữ liệu ban đầu ta: gõ git revert + id(vừa copy bên trên)
+Bước 5:Ấn esc rồi ấn nút shift rồi ấn nút :q
